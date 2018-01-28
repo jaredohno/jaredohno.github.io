@@ -25,6 +25,9 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+[Part A] (Assignment 1/Assignment1 A.html)
+[Part B] (Assignment 1/Assignment1 B.html)
+[Part C] (Assignment 1/Assignment1 C.html)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
