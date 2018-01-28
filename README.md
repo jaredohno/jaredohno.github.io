@@ -4,4 +4,4 @@
 
 [Part C](Assignment 1/Assignment1 C.html)
 
-[Part D](Assignment1 D.pdf)
+![Part D](Assignment1 D.pdf)
