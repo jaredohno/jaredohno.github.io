@@ -272,12 +272,12 @@
 			var cubeMap = new THREE.CubeTextureLoader()
 				.setPath("./CubeMapPics/")
 				.load( [
-					'posx.jpg',
-					'negx.jpg',
-					'posy.jpg',
-					'negy.jpg',
-					'posz.jpg',
-					'negz.jpg'
+					'posX.jpg',
+					'negX.jpg',
+					'posY.jpg',
+					'negY.jpg',
+					'posZ.jpg',
+					'negZ.jpg'
 				] );
 			
 			var uniforms = { "tCube": { type: "t", value: cubeMap } };
