@@ -1,5 +1,3 @@
 # jaredohno.github.io
 
-[Part A](Assignment 2/Part A.html)
-
-[Part B](Assignment 2/Part B.html)
+[Part B](Assignment 3/Assignment 3 Part B.html)
